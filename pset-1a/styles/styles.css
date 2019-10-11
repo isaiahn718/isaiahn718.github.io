@@ -1,0 +1,76 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: black;
+    text-align: center;
+
+}
+p {
+    color: white;
+
+}
+.section-header {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+
+}
+h2 {
+    color: white;
+
+}
+.section-footer {
+    color: white;
+
+}
+.section-table {
+    color: white;
+    align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+#header3 {
+    color: white;
+
+}
+h5 {
+    color: white;
+
+}
+#header6 {
+    color: white;
+
+}
+#orderedlist {
+    color: white;
+
+}
+ul {
+    color: white;
+
+}
+a[href="index.html"] {
+    color:teal;
+}
+a[href="Phase1.html"] {
+    color:teal;
+}
+a[href="Phase2.html"] {
+    color:teal;
+}
+a[href="Phase3.html"] {
+    color:teal;
+}
+a[href="final.html"] {
+    color:teal;
+}
+a{
+    color:teal;
+    text-decoration:underline;
+}
+div h4{
+    color:white;
+    text-decoration:underline;
+}
